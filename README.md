@@ -30,8 +30,8 @@ An AI-powered application that allows users to upload text, generate a concise s
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/summarize-visualize.git
-cd summarize-visualize
+https://github.com/shantanu-nichante/summary-generator
+cd summarize-generator
 ```
 
 2. Install dependencies:
